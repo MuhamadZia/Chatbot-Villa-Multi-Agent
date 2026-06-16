@@ -11,6 +11,7 @@ this project is required in final project of Maju Bersama AI
 
 # Structure Knowledge Folder
 <img width="293" height="130" alt="image" src="https://github.com/user-attachments/assets/0b403d88-7461-4485-a72a-55554c1c463b" />
+
 ## Example Files
 <img width="292" height="157" alt="image" src="https://github.com/user-attachments/assets/b0f889a1-a19f-41d0-a152-f2da78e8016c" />
 <img width="215" height="164" alt="image" src="https://github.com/user-attachments/assets/bc6c172e-691d-435b-a272-06a1d46602c4" />
