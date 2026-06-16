@@ -1,5 +1,5 @@
 # Chatbot-Villa-Multi-Agent
-this project is required in final project of Maju Bersama AI
+this project is required in final project of Maju Bareng AI
 
 # How to use it
 - Create folder with a name knowledge
