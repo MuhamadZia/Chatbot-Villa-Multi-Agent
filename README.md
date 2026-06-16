@@ -7,7 +7,10 @@ this project is required in final project of Maju Bareng AI
 - Fill the information about villa into the villa folder.
 - Fill the information about travel to villa and its location into the travel folder
 - Format file for the information in .md
-- Using header 1 by '#' and header 2 by '##' in the file
+
+## How to fill the file for the information
+- Use header 1 by '#' and header 2 by '##' in the file
+- Use "Villa Nature" for the name of villa 
 
 # Structure Knowledge Folder
 <img width="293" height="130" alt="image" src="https://github.com/user-attachments/assets/0b403d88-7461-4485-a72a-55554c1c463b" />
